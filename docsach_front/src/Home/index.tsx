@@ -1,5 +1,5 @@
-const Home = () => {
-    return;
-}
+const Contact = () => {
+  return;
+};
 
-export default Home;
+export default Contact;
