@@ -1,5 +1,5 @@
-const ContactTest = () => {
+const ContactTest2 = () => {
   return;
 };
 
-export default ContactTest;
+export default ContactTest2;
